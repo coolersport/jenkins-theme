@@ -1,1 +1,3 @@
 @import url("https://cdn.rawgit.com/djonsson/jenkins-atlassian-theme/gh-pages/theme-min.css");
+
+th.pane {color:#999}
